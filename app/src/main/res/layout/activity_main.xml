@@ -50,14 +50,14 @@
     <com.example.tran.paintapp.DrawingView
         android:id="@+id/view"
         android:layout_width="fill_parent"
-        android:layout_height="400dp"
+        android:layout_height="328dp"
         android:layout_below="@+id/linearLayout"
         android:layout_marginBottom="3dp"
         android:layout_marginLeft="5dp"
         android:layout_marginRight="5dp"
         android:layout_marginTop="3dp"
-        android:layout_weight="0.28"
-        android:background="#FFFFFFFF" />
+        android:background="#FFFFFFFF"
+        android:layout_weight="0.88" />
 
     <LinearLayout
         android:layout_width="wrap_content"
